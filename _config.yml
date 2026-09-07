@@ -16,7 +16,7 @@ name                     : &name "Zhaoqi Zhang"
 description              : &description "Zhaoqi Zhang's academic homepage. Research on urban computing, spatiotemporal data mining, graph learning, multimodal foundation models, and causal inference."
 
 url                      : "https://zzq-ntu.github.io"
-baseurl                  : "/zzq.github.io"
+baseurl                  : ""
 repository               : "ZZQ-NTU/ZZQ-NTU.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
