@@ -11,6 +11,8 @@ I obtained my Ph.D degree from the College of Computing and Data Science (CCDS),
 
 My research interests lie broadly in **Spatiotemporal Data Mining, Representation Learning, and Causal Inference**. My research aims to develop data-driven and causal learning methods for understanding and modeling complex urban systems. Beyond academic research, I have also worked on advertising allocation optimization problems in industry collaborations.
 
+I am currently seeking postdoctoral opportunities in related research areas.
+
 
 ## Selected Publications
 **(* = corresponding author)**
