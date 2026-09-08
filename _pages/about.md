@@ -15,7 +15,7 @@ I am currently seeking postdoctoral opportunities in related research areas.
 
 
 ## Selected Publications
-**(* = corresponding author)**
+**(*=corresponding author)**
 
 {% include base_path %}
 
