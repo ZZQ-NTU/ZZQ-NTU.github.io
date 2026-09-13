@@ -36,6 +36,11 @@ I am currently seeking postdoctoral opportunities in related research areas.
 
 [See all publications on Google Scholar]({{ site.author.googlescholar }})
 
+## Experience
+
+- **Research Intern**, Meituan, Beijing, China  
+  Apr. 2025 – Oct. 2026
+
 
 ## Services
 
