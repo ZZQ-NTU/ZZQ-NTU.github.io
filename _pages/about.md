@@ -14,6 +14,15 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 I am currently seeking postdoctoral opportunities in related research areas.
 
 
+## Education
+
+- **Ph.D. in Computer Science**, Nanyang Technological University, Singapore  
+  Jan. 2022 – Sep. 2026
+
+- **B.S. in Software Engineering**, Dalian University of Technology, China  
+  Sep. 2017 – Jun. 2021
+
+
 ## Selected Publications
 **(*=corresponding author)**
 
