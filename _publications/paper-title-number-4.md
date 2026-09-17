@@ -1,6 +1,6 @@
 ---
 title: "HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework."
-order: 3
+order: 2
 collection: publications
 category: conferences
 permalink: /publication/paper-title-number-4
