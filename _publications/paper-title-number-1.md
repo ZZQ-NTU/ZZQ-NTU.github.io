@@ -1,6 +1,6 @@
 ---
 title: "StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information."
-order: 4
+order: 5
 collection: publications
 category: conferences
 permalink: /publication/paper-title-number-1
