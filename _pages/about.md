@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D degree from the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore, under the supervision of Prof. [Gao Cong](https://personal.ntu.edu.sg/gaocong/) and Prof. [Siqiang Luo](https://siqiangluo.com/lab). Prior to joining NTU, I received my Bachelor's degree in Software Engineering from Dalian University of Technology.
+I obtained my Ph.D. degree from the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore, under the supervision of Prof. [Gao Cong](https://personal.ntu.edu.sg/gaocong/) and Prof. [Siqiang Luo](https://siqiangluo.com/lab). Prior to joining NTU, I received my Bachelor's degree in Software Engineering from Dalian University of Technology.
 
 My research interests lie broadly in **Spatiotemporal Data Mining, Representation Learning, and Causal Inference**. My research aims to develop data-driven and causal learning methods for understanding and modeling complex urban systems. Beyond academic research, I have also worked on advertising allocation optimization problems in industry collaborations.
 
-I am currently seeking postdoctoral opportunities in related research areas.
+<span style="color: red;">I am currently seeking postdoctoral opportunities in related research areas. If you know of any suitable opportunities or are interested in potential collaboration, I would be happy to hear from you.</span>
 
 
 ## Education
