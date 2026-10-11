@@ -14,7 +14,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 <span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
 
 
-## Education
+<h2 id="education">Education</h2>
 
 - **Ph.D. in Computer Science**, Nanyang Technological University, Singapore  
   Jan. 2022 – Sep. 2026
@@ -23,7 +23,8 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
   Sep. 2017 – Jun. 2021
 
 
-## Selected Publications
+<h2 id="publications">Selected Publications</h2>
+
 **(*=corresponding author)**
 
 {% include base_path %}
@@ -36,13 +37,13 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 [See all publications on Google Scholar]({{ site.author.googlescholar }})
 
-## Experience
+<h2 id="experience">Experience</h2>
 
 - **Research Intern**, Meituan, Beijing, China  
   Apr. 2025 – Oct. 2026
 
 
-## Services
+<h2 id="services">Services</h2>
 
 ### Conference Reviewer
 
@@ -57,8 +58,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 - Data & Knowledge Engineering
 - Data Science and Engineering
 
-
-## Teaching
+<h2 id="teaching">Teaching</h2>
 
 - **SC2005 / CE2005 / CZ2005** *Operating Systems* — 22 Spring
 - **CZ3003** *Software System Analysis and Design* — 22 Spring
