@@ -66,7 +66,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 - **SC2207 / CZ2007** *Introduction to Databases* — 25 Spring
 
 
-<div style="margin-top: 14px; margin-bottom: 25px;">
+<div style="margin-top: 55px; margin-bottom: 30px;">
   <a href="https://info.flagcounter.com/esTQ"
      target="_blank"
      rel="noopener noreferrer"
