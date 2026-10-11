@@ -67,13 +67,13 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 
 <div style="margin-top: 55px; margin-bottom: 30px;">
-  <a href="https://info.flagcounter.com/esTQ"
+  <a href="https://info.flagcounter.com/0vnG"
      target="_blank"
      rel="noopener noreferrer"
      style="text-decoration: none;">
     <img
-      src="https://s01.flagcounter.com/count2/esTQ/bg_FFFFFF/txt_555555/border_FFFFFF/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/"
-      alt="Visitors from around the world"
+      src="https://s01.flagcounter.com/countxl/0vnG/bg_FFFFFF/txt_555555/border_FFFFFF/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/"
+      alt="Visitor statistics"
       style="border: 0; display: block;">
   </a>
 </div>
