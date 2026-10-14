@@ -72,7 +72,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
      rel="noopener noreferrer"
      style="text-decoration: none;">
     <img
-      src="https://s01.flagcounter.com/count2/4UTm/bg_FFFFFF/txt_555555/border_FFFFFF/columns_4/maxflags_24/viewers_3/labels_1/pageviews_0/flags_0/percent_0/"
+      src="https://s01.flagcounter.com/count2/4UTm/bg_FFFFFF/txt_555555/border_FFFFFF/columns_4/maxflags_24/viewers_3/labels_1/pageviews_1/flags_0/percent_0/"
       alt="Visitor statistics"
       style="border: 0; display: block;">
   </a>
