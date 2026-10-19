@@ -40,7 +40,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 <h2 id="experience">Experience</h2>
 
 - **Research Intern**, Meituan, Beijing, China  
-  Apr. 2025 – Oct. 2026
+  Apr. 2025 – Dec. 2026
 
 
 <h2 id="services">Services</h2>
