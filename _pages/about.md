@@ -48,7 +48,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 ### Conference Reviewer
  
 - AAAI 2027, KDD 2027, WSDM 2027, ICLR 2027, WWW 2027
-- ACL Rolling Review (ARR), Oct. 2026 Cycle
+- ACL Rolling Review, Oct. 2026 Cycle
 - AAAI 2026, KDD 2026, WWW 2026
 - KDD 2025, WWW 2025
 
