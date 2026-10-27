@@ -61,10 +61,10 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 <h2 id="teaching">Teaching</h2>
 
-- **SC2005 / CE2005 / CZ2005** *Operating Systems* — 22 Spring
-- **CZ3003** *Software System Analysis and Design* — 22 Spring
-- **SC2006 / CE2006 / CZ2006** *Software Engineering* — 22 Fall, 23 Spring
-- **SC2207 / CZ2007** *Introduction to Databases* — 25 Spring
+- **SC2005 / CE2005 / CZ2005** *Operating Systems* — Teaching Assistant, 22 Spring
+- **CZ3003** *Software System Analysis and Design* — Teaching Assistant, 22 Spring
+- **SC2006 / CE2006 / CZ2006** *Software Engineering* — Teaching Assistant, 22 Fall, 23 Spring
+- **SC2207 / CZ2007** *Introduction to Databases* — Teaching Assistant, 25 Spring
 
 
 <div style="margin-top: 55px; margin-bottom: 30px;">
