@@ -1,6 +1,6 @@
 ---
 title: "Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising."
-order: 3
+order: 4
 collection: publications
 category: conferences
 permalink: /publication/paper-title-number-5
