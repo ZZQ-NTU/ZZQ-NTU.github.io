@@ -38,7 +38,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
   <p><strong>[2026-05-15]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3817641" target="_blank" rel="noopener noreferrer">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a>" was accepted to KDD 2026 Research Track!</p>
 
-  <p><strong>[2026-04-03]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/10.1145/3805712.3808398https://dl.acm.org/doi/10.1145/3805712.3808398" target="_blank" rel="noopener noreferrer">Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising</a>" was accepted to SIGIR 2026 Industry Track!</p>
+  <p><strong>[2026-04-03]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/10.1145/3805712.3808398" target="_blank" rel="noopener noreferrer">Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising</a>" was accepted to SIGIR 2026 Industry Track!</p>
 
   <p><strong>[2026-01-15]</strong> One first-authored paper "<a href="https://ieeexplore.ieee.org/abstract/document/11359527" target="_blank" rel="noopener noreferrer">UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation</a>" was accepted to TKDE!</p>
 
