@@ -31,7 +31,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 {% assign sorted_publications = site.publications | sort: "order" %}
 
-{% for post in sorted_publications limit:5 %}
+{% for post in sorted_publications limit:6 %}
   {% include archive-single.html %}
 {% endfor %}
 
