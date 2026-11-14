@@ -32,17 +32,19 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
   <p><strong>[2026-09-30]</strong> I officially received my Ph.D. degree from Nanyang Technological University!</p>
 
-  <p><strong>[2026-05-15]</strong> One corresponding-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3818434" target="_blank" rel="noopener noreferrer">CHMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</a>" was accepted to KDD 2026 Applied Data Science Track!</p>
+  <p><strong>[2026-06-21]</strong> Glad to receive the KDD 2026 Student Travel Award!</p>
+
+  <p><strong>[2026-05-16]</strong> One corresponding-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3818434" target="_blank" rel="noopener noreferrer">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</a>" was accepted to KDD 2026 Applied Data Science Track!</p>
 
   <p><strong>[2026-05-15]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3817641" target="_blank" rel="noopener noreferrer">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a>" was accepted to KDD 2026 Research Track!</p>
 
-  <p><strong>[2026]</strong> Our paper on multi-slot guaranteed display advertising was accepted to SIGIR 2026 Industry Track!</p>
+  <p><strong>[2026-04-03]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/10.1145/3805712.3808398https://dl.acm.org/doi/10.1145/3805712.3808398" target="_blank" rel="noopener noreferrer">Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising</a>" was accepted to SIGIR 2026 Industry Track!</p>
 
-  <p><strong>[2026]</strong> Our paper "UrbanMFM" was published in IEEE TKDE!</p>
+  <p><strong>[2026-01-15]</strong> One first-authored paper "<a href="https://ieeexplore.ieee.org/abstract/document/11359527" target="_blank" rel="noopener noreferrer">UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation</a>" was accepted to TKDE!</p>
 
-  <p><strong>[2026]</strong> Glad to receive the KDD 2026 Student Travel Award!</p>
-
-  <p><strong>[2024]</strong> Our paper "StructAM" was accepted to COLING 2024!</p>
+  <p><strong>[2026-04-16]</strong> I joined Meituan as an Intern Researcher!</p>
+  
+  <p><strong>[2024-02-20]</strong> </strong> One first-authored paper "<a href="https://aclanthology.org/2024.lrec-main.1333/" target="_blank" rel="noopener noreferrer">StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information</a>" was accepted to COLING 2024!</p>
 
 </div>
 
