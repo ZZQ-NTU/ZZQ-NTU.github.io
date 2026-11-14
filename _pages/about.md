@@ -14,7 +14,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 <span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
 
 
-<h2 id="news" style="color: #C00000; font-weight: 700;">News!</h2>
+<h2 id="news" style="color: #C00000; font-weight: 700;">🔥 News</h2>
 
 
 <div style="
@@ -28,23 +28,23 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
   scrollbar-color: #aaaaaa #f5f5f5;
 ">
 
-  <p><strong>[2026-11-13]</strong> 🎉 One first-authored paper "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry" was accepted to KDD 2027 Research Track!</p>
+  <p><strong>[2026-11-13]</strong> 🎉 One first-authored paper "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry" was accepted to KDD 2027 Research Track !</p>
 
-  <p><strong>[2026-09-30]</strong> 🎓 I officially received my Ph.D. degree from Nanyang Technological University!</p>
+  <p><strong>[2026-09-30]</strong> 🎓 I officially received my Ph.D. degree from Nanyang Technological University !</p>
 
-  <p><strong>[2026-06-21]</strong> 🏆 Glad to receive the KDD 2026 Student Travel Award!</p>
+  <p><strong>[2026-06-21]</strong> 🏆 Glad to receive the KDD 2026 Student Travel Award !</p>
 
-  <p><strong>[2026-05-16]</strong> 🎉 One corresponding-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3818434" target="_blank" rel="noopener noreferrer">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</a>" was accepted to KDD 2026 Applied Data Science Track!</p>
+  <p><strong>[2026-05-16]</strong> 🎉 One corresponding-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3818434" target="_blank" rel="noopener noreferrer">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</a>" was accepted to KDD 2026 Applied Data Science Track !</p>
 
-  <p><strong>[2026-05-15]</strong> 🎉 One first-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3817641" target="_blank" rel="noopener noreferrer">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a>" was accepted to KDD 2026 Research Track!</p>
+  <p><strong>[2026-05-15]</strong> 🎉 One first-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3817641" target="_blank" rel="noopener noreferrer">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a>" was accepted to KDD 2026 Research Track !</p>
 
-  <p><strong>[2026-04-03]</strong> 🎉 One first-authored paper "<a href="https://dl.acm.org/doi/10.1145/3805712.3808398" target="_blank" rel="noopener noreferrer">Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising</a>" was accepted to SIGIR 2026 Industry Track!</p>
+  <p><strong>[2026-04-03]</strong> 🎉 One first-authored paper "<a href="https://dl.acm.org/doi/10.1145/3805712.3808398" target="_blank" rel="noopener noreferrer">Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising</a>" was accepted to SIGIR 2026 Industry Track !</p>
 
-  <p><strong>[2026-01-15]</strong> 🎉 One first-authored paper "<a href="https://ieeexplore.ieee.org/abstract/document/11359527" target="_blank" rel="noopener noreferrer">UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation</a>" was accepted to TKDE!</p>
+  <p><strong>[2026-01-15]</strong> 🎉 One first-authored paper "<a href="https://ieeexplore.ieee.org/abstract/document/11359527" target="_blank" rel="noopener noreferrer">UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation</a>" was accepted to TKDE !</p>
 
-  <p><strong>[2025-04-16]</strong> 💻 I joined Meituan as an Intern Researcher!</p>
+  <p><strong>[2025-04-16]</strong> 💻 I joined Meituan as an Intern Researcher !</p>
   
-  <p><strong>[2024-02-20]</strong> 🎉 One first-authored paper "<a href="https://aclanthology.org/2024.lrec-main.1333/" target="_blank" rel="noopener noreferrer">StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information</a>" was accepted to COLING 2024!</p>
+  <p><strong>[2024-02-20]</strong> 🎉 One first-authored paper "<a href="https://aclanthology.org/2024.lrec-main.1333/" target="_blank" rel="noopener noreferrer">StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information</a>" was accepted to COLING 2024 !</p>
 
 </div>
 
