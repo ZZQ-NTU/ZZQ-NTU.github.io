@@ -18,7 +18,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
 
 <div style="
-  height: 300px;
+  height: 180px;
   overflow-y: auto;
   padding-right: 15px;
   margin-bottom: 25px;
@@ -28,7 +28,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
   scrollbar-color: #aaaaaa #f5f5f5;
 ">
 
-  <p><strong>[2026-11]</strong> One first-authored paper was accepted to KDD!</p>
+  <p><strong>[2026-11.13]</strong> One first-authored paper "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry" was accepted to KDD 2027 Research Track!</p>
 
   <p><strong>[2026-09]</strong> I officially received my Ph.D. degree from Nanyang Technological University!</p>
 
