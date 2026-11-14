@@ -22,6 +22,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
   overflow-y: auto;
   padding-right: 15px;
   margin-bottom: 25px;
+  font-size: 14px;
   line-height: 1.6;
   scrollbar-width: thin;
   scrollbar-color: #aaaaaa #f5f5f5;
