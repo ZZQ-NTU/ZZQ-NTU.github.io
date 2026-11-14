@@ -14,6 +14,35 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 <span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
 
 
+<h2 id="news" style="color: #C00000; font-weight: 700;">News</h2>
+
+<div style="
+  height: 300px;
+  overflow-y: auto;
+  padding-right: 15px;
+  margin-bottom: 25px;
+  scrollbar-width: thin;
+  scrollbar-color: #aaaaaa #f5f5f5;
+">
+
+  <p><strong>[2026-11]</strong> One first-authored paper was accepted to KDD!</p>
+
+  <p><strong>[2026-09]</strong> I officially received my Ph.D. degree from Nanyang Technological University!</p>
+
+  <p><strong>[2026]</strong> Our paper "CausalPOI" was accepted to KDD 2026!</p>
+
+  <p><strong>[2026]</strong> Our paper on multi-slot guaranteed display advertising was accepted to SIGIR 2026 Industry Track!</p>
+
+  <p><strong>[2026]</strong> Our paper "UrbanMFM" was published in IEEE TKDE!</p>
+
+  <p><strong>[2026]</strong> Glad to receive the KDD 2026 Student Travel Award!</p>
+
+  <p><strong>[2024]</strong> Our paper "StructAM" was accepted to COLING 2024!</p>
+
+</div>
+
+
+
 <h2 id="education">Education</h2>
 
 - **Ph.D. in Computer Science**, Nanyang Technological University, Singapore  
