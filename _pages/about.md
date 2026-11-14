@@ -42,7 +42,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
   <p><strong>[2026-01-15]</strong> One first-authored paper "<a href="https://ieeexplore.ieee.org/abstract/document/11359527" target="_blank" rel="noopener noreferrer">UrbanMFM: Spatial Graph-Based Multiscale Foundation Models for Learning Generalized Urban Representation</a>" was accepted to TKDE!</p>
 
-  <p><strong>[2026-04-16]</strong> I joined Meituan as an Intern Researcher!</p>
+  <p><strong>[2025-04-16]</strong> I joined Meituan as an Intern Researcher!</p>
   
   <p><strong>[2024-02-20]</strong> One first-authored paper "<a href="https://aclanthology.org/2024.lrec-main.1333/" target="_blank" rel="noopener noreferrer">StructAM: Enhancing Address Matching through Semantic Understanding of Structure-aware Information</a>" was accepted to COLING 2024!</p>
 
