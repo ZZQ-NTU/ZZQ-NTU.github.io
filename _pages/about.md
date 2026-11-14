@@ -14,13 +14,16 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 <span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
 
 
-<h2 id="news" style="color: #C00000; font-weight: 700;">News</h2>
+<h2 id="news" style="color: #C00000; font-weight: 700;">News!</h2>
+
 
 <div style="
   height: 300px;
   overflow-y: auto;
   padding-right: 15px;
   margin-bottom: 25px;
+  font-size: 14px;
+  line-height: 1.6;
   scrollbar-width: thin;
   scrollbar-color: #aaaaaa #f5f5f5;
 ">
