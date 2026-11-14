@@ -32,7 +32,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 
   <p><strong>[2026-09-30]</strong> I officially received my Ph.D. degree from Nanyang Technological University!</p>
 
-  <p><strong>[2026-05-15]</strong> Our paper "CausalPOI" was accepted to KDD 2026!</p>
+  <p><strong>[2026-05-15]</strong> One corresponding-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3818434" target="_blank" rel="noopener noreferrer">CHMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</a>" was accepted to KDD 2026 Applied Data Science Track!</p>
 
   <p><strong>[2026-05-15]</strong> One first-authored paper "<a href="https://dl.acm.org/doi/abs/10.1145/3770855.3817641" target="_blank" rel="noopener noreferrer">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a>" was accepted to KDD 2026 Research Track!</p>
 
