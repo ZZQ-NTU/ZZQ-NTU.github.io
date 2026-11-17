@@ -28,7 +28,8 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
   scrollbar-color: #aaaaaa #f5f5f5;
 ">
 
-  <p><strong>[2026-11-13]</strong>  🎉 One first-authored paper "UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry" was accepted to KDD 2027 Research Track! See you in San Jose!</p>
+
+  <p><strong>[2026-11-13]</strong>  🎉 One first-authored paper "<a href="https://arxiv.org/abs/2611.20180" target="_blank" rel="noopener noreferrer">UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry</a>" was accepted to KDD 2027 Research Track! See you in San Jose!</p>
 
   <p><strong>[2026-09-30]</strong>  🎓 I officially received my Ph.D. degree from Nanyang Technological University!</p>
 
