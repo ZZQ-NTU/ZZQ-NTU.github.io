@@ -7,5 +7,5 @@ permalink: /publication/paper-title-number-1
 excerpt: '<strong>Zhaoqi Zhang</strong>, Miao Xie, Linyou Cai, Qianlong Xie, Xingxing Wang, Siqiang Luo, Gao Cong.'
 date: 2026-11-13
 venue: 'KDD 2027'
-paperurl: 'https://zzq-ntu.github.io/'
+paperurl: 'https://arxiv.org/abs/2611.20180'
 ---
