@@ -11,7 +11,7 @@ I obtained my Ph.D. degree from the College of Computing and Data Science (CCDS)
 
 My research interests lie broadly in **Spatiotemporal Data Mining, Representation Learning, and Causal Inference**. My research aims to develop data-driven and causal learning methods for understanding and modeling complex urban systems. Beyond academic research, I have also worked on advertising allocation optimization problems in industry collaborations.
 
-<span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities!</strong></span>
+<span style="color: red;"><strong>I am currently seeking postdoc opportunities in related research areas. Please feel free to contact me if you know of any relevant opportunities !</strong></span>
 
 
 <h2 id="news" style="color: #C00000; font-weight: 700;">🔥 News</h2>
@@ -29,7 +29,7 @@ My research interests lie broadly in **Spatiotemporal Data Mining, Representatio
 ">
 
 
-  <p><strong>[2026-11-13]</strong>  🎉 One first-authored paper "<a href="https://arxiv.org/abs/2611.20180" target="_blank" rel="noopener noreferrer">UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry</a>" was accepted to KDD 2027 Research Track! See you in San Jose !</p>
+  <p><strong>[2026-11-13]</strong>  🎉 One first-authored paper "<a href="https://arxiv.org/abs/2611.20180" target="_blank" rel="noopener noreferrer">UrbanROI: Causal Modeling for Regional ROI Forecasting under POI Entry</a>" was accepted to KDD 2027 Research Track ! See you in San Jose !</p>
 
   <p><strong>[2026-09-30]</strong>  🎓 I officially received my Ph.D. degree from Nanyang Technological University !</p>
 
